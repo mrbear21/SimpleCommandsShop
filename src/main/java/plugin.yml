@@ -1,0 +1,17 @@
+name: SimpleShopCommands
+main: me.shpcmds.brain.Spigot
+version: 0.0.1
+api-version: 1.16
+author: mrbear25
+softdepend: [Vault]
+description: Simple Commands Shop
+commands:
+    scs:
+        description: Shop Commands
+        usage: synergy-command-usage /<command>
+    cmds:
+        description: Shop Commands
+        usage: synergy-command-usage /<command>
+    cmdshop:
+        description: Shop Commands
+        usage: synergy-command-usage /<command>

@@ -1,0 +1,46 @@
+commands:
+    "//set":
+        price: 1
+        permission: "worldedit.region.set"
+    "//copy":
+        price: 1
+        permission: worldedit.clipboard.copy
+    "//move":
+        price: 1
+        permission: worldedit.region.move
+    "//replace":
+        price: 1
+        permission: worldedit.region.replace
+    "//cut":
+        price: 1
+        permission: worldedit.clipboard.cut
+    "//flip":
+        price: 1
+        permission: worldedit.clipboard.flip
+    "//overlay":
+        price: 1
+        permission: worldedit.region.overlay
+    "//rotate":
+        price: 1
+        permission: worldedit.clipboard.rotate
+    "/fixwater":
+        price: 1
+        permission: worldedit.fixwater
+    "//fill":
+        price: 1
+        permission: worldedit.fill
+    "//forest":
+        price: 1
+        permission: worldedit.region.forest
+    "//stack":
+        price: 1
+        permission: worldedit.region.stack
+    "//walls":
+        price: 1
+        permission: worldedit.region.walls
+    "//naturalize":
+        price: 1
+        permission: worldedit.region.naturalize
+messages:
+    no-permission: "You don't have permission to use that."
+    reloaded: "ShopCommands reloaded"
